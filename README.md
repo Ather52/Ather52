@@ -5,8 +5,8 @@ I specialize in transforming raw data into meaningful insights using Python, SQL
 `Python` `Pandas` `NumPy` `SQL` `Matplotlib` `Seaborn` `scikit-learn` `Power BI` `Jupyter`
 ### Projects:
 - Exploratory Data Analysis (EDA) on real-world datasets  
-- Machine Learning classification & regression pipelines  
-- Dashboards using Power BI and Jupyter
+- Machine Learning Models 
+- Dashboards using Jupyter
 ### Interests:
 Cloud platforms, AI automation, and data-driven decision-making.
 **Let’s Connect:**  
