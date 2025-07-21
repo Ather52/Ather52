@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**Ather52/Ather52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Muhammad Ather 
+**Data Analyst | ML Enthusiast | Problem Solver**
+I specialize in transforming raw data into meaningful insights using Python, SQL, and machine learning. My passion lies in creating smart, scalable solutions using clean code and analytics.
+###  Skills & Tools:
+`Python` `Pandas` `NumPy` `SQL` `Matplotlib` `Seaborn` `scikit-learn` `Power BI` `Jupyter`
+### Projects:
+- Exploratory Data Analysis (EDA) on real-world datasets  
+- Machine Learning classification & regression pipelines  
+- Dashboards using Power BI and Jupyter
+### Interests:
+Cloud platforms, AI automation, and data-driven decision-making.
+**Let’s Connect:**  
+LinkedIn: linkedin.com/in/muhammad-ather-1a6623327 
+Email: athertahir52@gmail.com
