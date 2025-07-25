@@ -1,14 +1,38 @@
-# Hi there, I'm Muhammad Ather 
+# Hi there, I'm Muhammad Ather 👋
+
 **Data Analyst | ML Enthusiast | Problem Solver**
-I specialize in transforming raw data into meaningful insights using Python, SQL, and machine learning. My passion lies in creating smart, scalable solutions using clean code and analytics.
-###  Skills & Tools:
-`Python` `Pandas` `NumPy` `SQL` `Matplotlib` `Seaborn` `scikit-learn` `Power BI` `Jupyter`
-### Projects:
-- Exploratory Data Analysis (EDA) on real-world datasets  
-- Machine Learning Models 
-- Dashboards using Jupyter
-### Interests:
-Cloud platforms, AI automation, and data-driven decision-making.
-**Let’s Connect:**  
-LinkedIn: linkedin.com/in/muhammad-ather-1a6623327 
-Email: athertahir52@gmail.com
+
+I specialize in transforming raw data into meaningful insights using **Python**, **SQL**, and **machine learning**. My passion lies in creating smart, scalable solutions using clean code and analytics.
+
+---
+
+### 📌 About Me
+
+🎯 **Career Goals**: To build intelligent data-driven systems, solve business problems with analytics, and grow in the field of machine learning and data science.
+
+💻 **Skills**:  
+`Python` `Pandas` `NumPy` `SQL` `Matplotlib` `Seaborn` `scikit-learn` `Power BI` `Jupyter Notebook` 'TensorFlow' 
+
+⚙️ **Tools**: Git, GitHub, Jupyter, VS Code
+
+---
+
+### 📊 I'm Working On:
+- Advanced Machine Learning Models  
+- Real-world Exploratory Data Analysis (EDA)  
+- Building interactive dashboards using Python
+
+---
+
+### 🤝 Connect with Me
+
+📧 Email: athertahir52@gmail.com  
+🔗 LinkedIn: [Muhammad Ather](https://www.linkedin.com/in/muhammad-ather-1a662327)
+
+---
+
+### 📈 GitHub Stats
+
+![Ather's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ather&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ather&layout=compact&theme=radical)
